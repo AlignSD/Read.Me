@@ -1,6 +1,6 @@
 # Read.Me A Readme generator App.
 
-![Portforlio screen shot](./assets/readme_ss_01)
+![Portforlio screen shot](./assets/Read_Me_Video)
 
 https://alignsd.github.io/Read.me - Link To Website!
 
@@ -20,7 +20,17 @@ Hey! I'm Evan Alioto. I'm currently enrolled in a Coding Bootcamp provided by UC
 
 ## Description
 
-My homework for this week was to create a daily planner. We were giving the framework for the html and css and the rest was left to us. I decided to style my in a 8bit retro type font and colorscheme. The challenges of this product were storing the users inputs in their local storage and having it persist thru page reload, displaying the current time using Moment.js, and having the timeblocks style change based on whether the current time is in the past present or future. This homework assignment really helped me become more comfortable using JQuery and even vanilla JS.
+My homework project for the week was to make a node.js project that could generate a readme file by taking a users text imput and applying them to a readme template.
+
+Step 1: Clone/Fork repo
+
+Step 2: open index.js file in your IDE.
+
+Step 3: run "node index.js" command in terminal
+
+Step 4: answer prompts
+
+Step 5: Enjoy your new readme!
 
 ## Tools Used
 
