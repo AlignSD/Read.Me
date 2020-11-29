@@ -48,7 +48,7 @@ inquirer
     ])
     .then (
         (response) =>
-            fs.appendFile('Readme.md', (`# ${response.projectName}.
+            fs.appendFile('Readme.txt', (`# ${response.projectName}.
 
             ![Portforlio screen shot](${response.sceenshot})
             
