@@ -1,8 +1,8 @@
 # Read.Me A Readme generator App.
 
-![Portforlio screen shot](/assets/Read_Me_Video.gif)
+![Portforlio screen shot](/assets/Read_Me_Video_Hi_Fidelity)
 
-https://alignsd.github.io/Read.me - Link To Website!
+
 
 ## User Story
 
