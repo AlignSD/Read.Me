@@ -1,6 +1,6 @@
 # Read.Me A Readme generator App.
 
-![Portforlio screen shot](/assets/Read_Me_Video_Hi_Fidelity)
+![Portforlio screen shot](/assets/Read_Me_Video_Hi_Fidelity.gif)
 
 
 
