@@ -3,6 +3,7 @@ const inquirer = require("inquirer");
 
 var user
 inquirer
+    // List of questions which then take in the users input
     .prompt([
         {
             type: 'input',
@@ -48,6 +49,8 @@ inquirer
     ])
     .then (
         (response) =>
+            // creates or appends  readme.txt file
+            //  then inputs users answers from prompt into specific areas of readme template.
             fs.appendFile('Readme.txt', (`# ${response.projectName}.
 
             ![Portforlio screen shot](${response.sceenshot})
@@ -90,7 +93,9 @@ inquirer
             ## License
             
             ${response.license}`), 
+
             
+        // error check
         (err) =>
             err ? console.error(err) : console.log('Your Site Has Been Made!')
             )
